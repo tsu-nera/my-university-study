@@ -1,0 +1,25 @@
+//”{¸“x‚ÌŒvZ‹@ƒCƒvƒVƒƒ“‚ğ‹‚ß‚éƒvƒƒOƒ‰ƒ€@‚Q‚O‚O‚V”N‚TŒ‚P‚O“úi–Øj
+
+package keisan_suugaku;
+
+public class Double1406085 {
+
+	
+	public static void main(String[] args) {
+
+		double e=1.0;
+		
+		for (int i = 0; i <= 10000; i++) {
+		     e /= 2.0;
+		     
+		     if (1.0 + e == 1.0) {
+		    	 System.out.print(e);
+		       break;
+		     }
+
+		
+	}
+
+	}
+	
+}
